@@ -1,4 +1,5 @@
-# [ghc-openhatch-2016](https://willingc.github.io/ghc-openhatch-2016/welcome/)
+##### Under Construction #####
+# [ghc-openhatch-2017](https://willingc.github.io/ghc-openhatch-2016/welcome/)
 
 ## [Welcome](https://willingc.github.io/ghc-openhatch-2016/welcome/)
 
